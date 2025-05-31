@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Apprendre Vue.js",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Apprendre Pinia",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "Apprendre Vite",
+      "completed": false
+    }
+  ]
+}

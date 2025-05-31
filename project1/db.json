@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Clavier",
+      "price": 100,
+      "stock": 10
+    },
+    {
+      "id": "2",
+      "name": "Souris",
+      "price": 200,
+      "stock": 20
+    },
+    {
+      "id": "3",
+      "name": "Tapis",
+      "price": 450,
+      "stock": 60
+    },
+    {
+      "id": "4",
+      "name": "Casque",
+      "price": 400,
+      "stock": 40
+    },
+    {
+      "id": "5",
+      "name": "Webcam",
+      "price": 500,
+      "stock": 50
+    },
+    {
+      "id": "6",
+      "name": "Mousse",
+      "price": 600,
+      "stock": 60
+    },
+    {
+      "id": "7",
+      "name": "Product 7",
+      "price": 700,
+      "stock": 70
+    },
+    {
+      "id": "8",
+      "name": "Product 8",
+      "price": 800,
+      "stock": 80
+    },
+    {
+      "id": "9",
+      "name": "Product 9",
+      "price": 900,
+      "stock": 90
+    },
+    {
+      "id": "10",
+      "name": "Product 10",
+      "price": 199,
+      "stock": 99
+    }
+  ]
+}
